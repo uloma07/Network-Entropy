@@ -3,3 +3,4 @@ networkx
 jupyter
 scipy
 pickle
+matplotlib
